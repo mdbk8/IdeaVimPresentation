@@ -1,0 +1,70 @@
+Show how to turn on/off plugin
+Say about conflict with default shortcut
+Show 'Shortcut conflicts' in Preferences
+
+
+Why this presentation:
+- you don't have to move your fingers from QWERTY keyboard to arrows (it really makes a huge difference :)
+- IDE after installation recommends IDEAVim plugin as a very few plugins to install
+- you can combine two worlds: old one (vim) and new one (IDE shortcuts)
+- a lot of refactoring commands I will show can also be done using IDE shortcuts,
+    but with VIM they are even more quicker to do
+- combined with IDE shortcuts you can (almost) throw away your mouse
+- knowledge how to use Vim will never expire
+- you can, at least, feel like a PRO ;)
+
+
+
+
+examples
+
+
+combo example with different refactorings
+
+How to approach learning:
+- start just with basic navigation using 'j', 'k', 'k', 'l'
+- edit your code 'depricated' way and use vim command when you notice a chance to use it
+- give you some time to begin feeling comfortable with switching between modes
+- every time you have to use arrows combined with delete button stop for a moment
+and look for 'command' that does that much quicker
+- keep a list of 'commands' nearby
+
+
+- gives you a language to express changes you want to make in a concise, easy and efficient way
+
+
+- the goal is to modify code very quickly without thinking much about it
+
+
+- Why you should give a talk for the first (or second) time?
+    - because we as a community care about you experience, not about new stuff/hype
+        (like coroutines, arrow library)
+    - everyone has some interesting cases at work worth sharing
+    - it doesn't have to be long for 30/40 minutes (15 minutes talks are also fine)
+    - we need new speakers
+    - let's make our local community even more awesome
+
+
+at the end show link to repo and say to share feedback by creating PR with bug ;)
+
+
+- install Presentation Assistant plugin
+- enable KeyCastr
+- adjust font size
+
+Questions to ask before Why part:
+- who used vim more than once?
+Questions t§
+- who uses vim one a month?
+
+- who uses vim one a week?
+
+
+
+
+Phrases:
+- Intellij is just Vim with plugins written in Java and wrapped with nice look
+- Vim with plugins is the biggest competitor for JetBrains
+
+
+
